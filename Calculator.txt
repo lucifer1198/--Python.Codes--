@@ -40,5 +40,5 @@ while ch == "Y" or ch == "y":
         y = float(input("Second number: "))
         Divide(x,y)
     else:
-        print("Wrong Input")
+        print("Wrong-Input")
     ch = input("Would you like to continue ? y/n") 
